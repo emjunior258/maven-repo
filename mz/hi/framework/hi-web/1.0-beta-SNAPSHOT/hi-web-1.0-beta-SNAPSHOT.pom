@@ -17,7 +17,7 @@
             <groupId>mz.hi.framework</groupId>
             <artifactId>hi-resources</artifactId>
             <version>1.0-beta-SNAPSHOT</version>
-            <scope>runtime</scope>
+            <scope>compile</scope>
             <optional>false</optional>
         </dependency>
 
@@ -25,7 +25,7 @@
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
             <version>3.0.1</version>
-            <scope>runtime</scope>
+            <scope>compile</scope>
             <optional>false</optional>
         </dependency>
 
@@ -33,7 +33,7 @@
             <groupId>com.google.code.gson</groupId>
             <artifactId>gson</artifactId>
             <version>2.6.2</version>
-            <scope>runtime</scope>
+            <scope>compile</scope>
             <optional>false</optional>
         </dependency>
 
@@ -41,7 +41,7 @@
             <groupId>org.clapper</groupId>
             <artifactId>javautil</artifactId>
             <version>3.1.2</version>
-            <scope>runtime</scope>
+            <scope>compile</scope>
             <optional>false</optional>
         </dependency>
 
@@ -49,7 +49,7 @@
             <groupId>javax.enterprise</groupId>
             <artifactId>cdi-api</artifactId>
             <version>1.2</version>
-            <scope>runtime</scope>
+            <scope>compile</scope>
             <optional>false</optional>
         </dependency>
 
@@ -64,7 +64,7 @@
             <groupId>org.reflections</groupId>
             <artifactId>reflections-maven</artifactId>
             <version>0.9.8</version>
-            <scope>runtime</scope>
+            <scope>compile</scope>
             <optional>false</optional>
         </dependency>
 
@@ -72,7 +72,7 @@
             <groupId>javax.validation</groupId>
             <artifactId>validation-api</artifactId>
             <version>1.1.0.Final</version>
-            <scope>runtime</scope>
+            <scope>compile</scope>
             <optional>false</optional>
         </dependency>
 
