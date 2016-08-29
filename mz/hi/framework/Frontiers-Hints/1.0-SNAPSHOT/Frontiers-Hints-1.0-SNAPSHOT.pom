@@ -5,13 +5,17 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>mz.hi.framework</groupId>
-    <artifactId>Hi-Frontiers-Suggestions-Maven</artifactId>
+    <artifactId>Frontiers-Hints</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>maven-plugin</packaging>
 
-
-
     <dependencies>
+
+        <dependency>
+            <groupId>mz.hi.framework</groupId>
+            <artifactId>hi-web</artifactId>
+            <version>1.3-beta-SNAPSHOT</version>
+        </dependency>
 
         <dependency>
             <groupId>org.apache.maven</groupId>
@@ -32,6 +36,13 @@
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-core</artifactId>
             <version>3.3.9</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>org.jboss</groupId>
+            <artifactId>jandex</artifactId>
+            <version>2.0.1.Final</version>
         </dependency>
 
 
