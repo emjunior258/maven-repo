@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>mz.hi.framework</groupId>
+  <artifactId>hi-web</artifactId>
+  <version>1.4.4-beta-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20161116171149</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.4.4-beta-SNAPSHOT</value>
+        <updated>20161116171149</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.4.4-beta-SNAPSHOT</value>
+        <updated>20161116171149</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
