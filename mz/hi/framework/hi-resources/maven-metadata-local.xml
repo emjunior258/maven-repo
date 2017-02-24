@@ -12,7 +12,8 @@
       <version>1.4.4-beta-SNAPSHOT</version>
       <version>1.4.5-beta-SNAPSHOT</version>
       <version>1.5.2-beta-SNAPSHOT</version>
+      <version>2.0.0-beta-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170223045607</lastUpdated>
+    <lastUpdated>20170224104809</lastUpdated>
   </versioning>
 </metadata>
